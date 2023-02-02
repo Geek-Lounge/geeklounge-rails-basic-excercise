@@ -19,7 +19,7 @@ group :development, :test do
 end
 
 group :development do
-  gem "spring-commands-rspec"
+  gem "spring-commands-rspec", "1.0.4"
   gem "web-console", "4.2.0"
 end
 
